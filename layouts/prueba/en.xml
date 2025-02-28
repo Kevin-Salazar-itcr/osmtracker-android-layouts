@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<layouts>
+  <layout name="root">
+    <button type="tag" label="asdfasdfasdf" icon="icon_1.png" />
+    <button type="tag" label="asdfasf" icon="icon_2.png" />
+    <button type="tag" label="asdfgasf" icon="icon_3.png" />
+  </layout>
+</layouts>
